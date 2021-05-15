@@ -1,0 +1,62 @@
+body {
+  font-size: 15px;
+  font-family: "Roboto", sans-serif;
+  box-sizing: border-box;
+}
+
+/**HEADER**/
+
+.header {
+  background-color: rgba(228, 227, 227, 0.315);
+}
+.size {
+  font-size: 0.8rem;
+}
+.flag {
+  width: 20px;
+}
+
+/**MAIN**/
+
+.radius {
+  border-radius: 10px;
+  -webkit-border-radius: 10px;
+  -moz-border-radius: 10px;
+  -ms-border-radius: 10px;
+  -o-border-radius: 10px;
+}
+.sizee {
+  font-size: 1rem;
+}
+.icon {
+  position: absolute;
+  width: 25px !important;
+  height: 25px !important;
+  right: 6px;
+  top: 12px;
+  border-radius: 50% !important;
+  -webkit-border-radius: 50% !important;
+  -moz-border-radius: 50% !important;
+  -ms-border-radius: 50% !important;
+  -o-border-radius: 50% !important;
+}
+.position-absolute {
+  position: absolute;
+  left: 10px;
+  top: 25px;
+  color: white;
+  width: 30px;
+  background-color: rgb(214, 49, 49);
+  border-radius: 30%;
+  -webkit-border-radius: 30%;
+  -moz-border-radius: 30%;
+  -ms-border-radius: 30%;
+  -o-border-radius: 30%;
+}
+.end {
+  position: absolute;
+  right: 0;
+  bottom: 0;
+  top: 0;
+  width: 100%;
+}
